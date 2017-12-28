@@ -1,0 +1,22 @@
+{
+    "bitwise": true,
+    "curly": true,
+    "eqeqeq": false,
+    "noarg": false,
+    "freeze": true,
+    "noempty": true,
+    "quotmark": false,
+    "latedef": true,
+    "newcap": true,
+    "undef": true,
+    "unused": true,
+
+    "asi": true,
+    "boss": true,
+    "esnext": true,
+
+    "browser": true,
+    "devel": true,
+    "jquery": true,
+    "node": true
+}

@@ -1,0 +1,106 @@
+[
+	{
+		"classify": "收纳",
+		"productList": [
+			{
+				"imgSrc": "/static/home/pro-1.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": ""
+			},
+			{
+				"imgSrc": "/static/home/pro-1.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": "1200.00"
+			},
+			{
+				"imgSrc": "/static/home/pro-1.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": "1200.00"
+			}
+		]
+	},
+	{
+		"classify": "厨房用品",
+		"productList": [
+			{
+				"imgSrc": "/static/home/pro-2.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": ""
+			},
+			{
+				"imgSrc": "/static/home/pro-2.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": "1200.00"
+			},
+			{
+				"imgSrc": "/static/home/pro-2.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": "1200.00"
+			}
+		]
+	},
+	{
+		"classify": "浴室用品",
+		"productList": [
+			{
+				"imgSrc": "/static/home/pro-3.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": ""
+			},
+			{
+				"imgSrc": "/static/home/pro-3.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": "1200.00"
+			},
+			{
+				"imgSrc": "/static/home/pro-3.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": "1200.00"
+			}
+		]
+	},
+	{
+		"classify": "照明",
+		"productList": [
+			{
+				"imgSrc": "/static/home/pro-2.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": ""
+			},
+			{
+				"imgSrc": "/static/home/pro-2.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": "1200.00"
+			},
+			{
+				"imgSrc": "/static/home/pro-2.png",
+				"url": "www.baidu.com",
+				"title": "汉森厨房巴赫5曼哈顿现代时尚经典淡雅（厨师风范）",
+				"price": "¥ 1500.00",
+				"discountPrice": "1200.00"
+			}
+		]
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"icon": "icon-inspiration",
+		"desc": "家装灵感",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-homedecoration",
+		"desc": "家装",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-kitchen",
+		"desc": "厨房",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-bathroom",
+		"desc": "浴室",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-bedroom",
+		"desc": "卧室",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-sittingroom",
+		"desc": "客厅",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-restaurant",
+		"desc": "餐厅",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-schoolroom",
+		"desc": "书房",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-childrenroom",
+		"desc": "儿童房",
+		"url": "www.baidu.com"
+	},
+	{
+		"icon": "icon-dailyuse",
+		"desc": "生活用品",
+		"url": "www.baidu.com"
+	}
+]

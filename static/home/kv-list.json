@@ -1,0 +1,14 @@
+[
+	{
+		"imgSrc": "/static/home/kv-1.png",
+		"goodsId": "01"
+	},
+	{
+		"imgSrc": "/static/home/kv-2.png",
+		"goodsId": "02"
+	},
+	{
+		"imgSrc": "/static/home/kv-3.png",
+		"goodsId": "03"
+	}
+]

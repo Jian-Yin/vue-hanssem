@@ -1,0 +1,28 @@
+[
+	{
+		"classify": "厨房",
+		"productList": [
+			{
+				"imgSrc": "/static/home/banner-1.png",
+				"url": "www.baidu.com"
+			},
+			{
+				"imgSrc": "/static/home/banner-1.png",
+				"url": "www.baidu.com"
+			}
+		]
+	},
+	{
+		"classify": "浴室",
+		"productList": [
+			{
+				"imgSrc": "/static/home/banner-2.jpg",
+				"url": "www.baidu.com"
+			},
+			{
+				"imgSrc": "/static/home/banner-2.jpg",
+				"url": "www.baidu.com"
+			}
+		]
+	}
+]
