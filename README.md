@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+基于vue实现的汉森首页,简易的list，myaccount等页面，技术栈 es6 + vue-router + axios + iscroll + swiper
+
 ## Build Setup
 
 ``` bash
