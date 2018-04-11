@@ -48,7 +48,7 @@ module.exports = {
         // 对src和test文件夹下的.js文件使用babel-loader将es6+的代码转成es5
         test: /\.js$/,
         loader: 'babel-loader',
-        include: [resolve('src'), resolve('test')]
+        include: [resolve('src'), resolve('test'), resolve('node_modules/_dom7@2.0.3@dom7/dist'), resolve('node_modules/_swiper@4.2.0@swiper/dist')]
       },
       {
         // 对图片资源文件使用url-loader
